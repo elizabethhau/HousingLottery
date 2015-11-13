@@ -1,0 +1,13 @@
+Username,Last Name,First Name,Class year,B number,Current Residence Hall, Lottery Number
+ecetlin,Cetlin,Emily,2016,B20593028,Beebe,7
+eahn,Ahn,Emily,2016,B20372947,Shafer,10
+gzhao,Zhao,Grace,2016,B20148395,Cazenove,3
+poo,Oo,Patricia,2016,B20219485,Pomeroy,5
+anal,Nal,Anna,2017,B20458603,Pomeroy,13
+nala,Ala,Nina,2017,B20659302,Shafer,20
+scarr,Carr,Stephanie,2017,B20749392,Beebe,11
+tmoan,Moan,Teresa,2017,B20859823,Shafer,15
+puma,Uma,Pamela,2018,B20947294,Cazenove,25
+nkey,Key,Nicole,2018,B20358302,Cazenove,21
+santa,Anta,Sophie,2018,B20489503,Pomeroy,29
+ipod,Pod,Iris,2018,B20859387,Beebe,23
