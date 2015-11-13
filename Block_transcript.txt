@@ -1,0 +1,42 @@
+b1 only contains 1 student:
+Block: 1396.0
+Soph Sing, Sophomore, 1396.0
+The average of b1: (expected 1396.0)	get: 1396.0
+
+b1 now contains 5 students:
+Block: 1534.0
+Soph Sing, Sophomore, 1396.0
+Sophie, Sophomore, 1475.0
+Susie, Sophomore, 1598.0
+Sam, Sophomore, 1307.0
+Sarah, Sophomore, 1894.0
+The average of b1: (expected 1534.0)	get: 1534.0
+
+Adding the 6th student:
+Block: 1557.1666666666667
+Soph Sing, Sophomore, 1396.0
+Sophie, Sophomore, 1475.0
+Susie, Sophomore, 1598.0
+Sam, Sophomore, 1307.0
+Sarah, Sophomore, 1894.0
+Sylvia, Sophomore, 1673.0
+The size of the block is now 6
+
+Tries to add a 7th student to the block
+Sorry you have already reached the maximum number of students allowed in a Block.
+Block: 1557.1666666666667
+Soph Sing, Sophomore, 1396.0
+Sophie, Sophomore, 1475.0
+Susie, Sophomore, 1598.0
+Sam, Sophomore, 1307.0
+Sarah, Sophomore, 1894.0
+Sylvia, Sophomore, 1673.0
+The size of the block is 6
+The students in this block's class year: 	Expected: Sophomore	get: Sophomore
+
+Setting the dorm preferences to be: Beebe, Shafer, Cazenove, and Pomeroy.
+Dorm preferences for Block b1:
+[Beebe, Shafer, Cazenove, Pomeroy]
+
+The students in this block are:
+[Soph Sing, Sophomore, 1396.0, Sophie, Sophomore, 1475.0, Susie, Sophomore, 1598.0, Sam, Sophomore, 1307.0, Sarah, Sophomore, 1894.0, Sylvia, Sophomore, 1673.0]

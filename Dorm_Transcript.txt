@@ -1,0 +1,26 @@
+A dorm named "Tower" is created.
+	Name of dorm: Tower
+Get residents of "Tower": (EMPTY)
+[]
+A block containing two juniors (Bob Builder and Jun Sing, average: 223) has been added to the dorm Tower, which contains 5 of each type of room.
+Get residents of "Tower": (Bob and Jun Sing)
+[Block: 223.0
+Bob Builder, Junior, 72.0
+Jun Sing, Junior, 374.0]
+The number of empty senior singles in Tower is: (5) 5
+The number of empty junior singles in Tower is: (3) 3
+
+Printing out all the information stored in "Tower"
+Dorm: Tower
+Senior singles: 5
+Junior singles: 5
+Sophomore doubles: 5
+First year doubles: 5
+Residents:
+Block: 223.0
+Bob Builder, Junior, 72.0
+Jun Sing, Junior, 374.0
+*
+
+Creating a block with 4 juniors (Alex, Mary, Sarah, and Sammy, average: 259.75).
+This block can be added to Tower: (FALSE) false
